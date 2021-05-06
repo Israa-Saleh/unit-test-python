@@ -30,5 +30,4 @@ class TestCaculator(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    # testObj = calculator()
     unittest.main()
